@@ -6,6 +6,24 @@
 
 ###
 
+<h1 align="center">My Skills</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
+
+###
+
 <h1 align="center">My Stats</h1>
 
 ###
@@ -23,9 +41,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/login" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=axrzz&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=axrzz&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
 </div>
 
 ###
